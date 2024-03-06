@@ -1,0 +1,113 @@
+---
+title: Ensino
+description: (em Português)
+format: lcars-html
+toc: true
+---
+
+## Materiais didáticos
+Aos poucos estou disponibilizando meus materiais didáticos em [minha página do GitHub](https://github.com/HugoCarvalhoUFRJ). No momento (dia 06 de março de 2024) a única disciplina com material didático completo é "Estatística e Probabilidade para Ciência da Computação". Aos poucos irei atualizando e colocando de outras matérias que oferto regularmente, pois o processo de organizar tudo que já tenho preparado é trabalhoso. Até metade de 2024 o material de Análise Exploratória de Dados também estará completo. Para solicitar uma versão editável dos materiais, entre em contato comigo.
+
+::: {.callout-note}
+Note que as disciplinas de quando dei aula na UERJ (entre 2015/02 e 2017/01) e de quando fui professor substituto da UFRJ (entre 2013/01 e 2014/02) ainda não estão listadas.
+:::
+
+## Universidade Federal do Rio de Janeiro (UFRJ)
+
+### 2024/01
+- Estatística e Probabilidade para Ciência da Computação (4h/semana)
+
+- Análise Exploratória de Dados (4h/semana)
+
+### 2024/Verão
+- Um breve passeio pelas interseções entre música, matemática e estatística (10h)
+
+### 2023/02
+- Estatística e Probabilidade para Ciência da Computação (4h/semana)
+
+- Aprendizagem de Máquina I (4h/semana)
+
+- Tópicos Especiais em Processos Criativos IV (3h/semana) -- ofertada pela Escola de Música da UFRJ para estudantes de Mestrado e Doutorado. O objetivo dessa disciplina foi fazer um estudo analítico da estrutura musical na "prática comum" da MPB. Disciplina compartilhada com: Carlos Almada (EM/UFRJ) e Cecília Saraiva (DM/UNIRIO).
+
+### 2023/01
+- Análise Exploratória de Dados (4h/semana)
+
+### 2022/02
+- Estatística e Probabilidade para Ciência da Computação (4h/semana)
+
+- Aprendizagem de Máquina I (4h/semana)
+
+- Curso de leitura sobre Inferência Variacional (4h/semana)
+
+### 2022/01
+- Estatística e Probabilidade para Ciência da Computação (4h/semana)
+
+- Análise Exploratória de Dados (4h/semana)
+
+### 2021/02
+- Cálculo das Probabilidades II (6h/semana)
+
+- Aprendizagem de Máquina I (4h/semana)
+
+### 2021/01
+- Cálculo das Probabilidades II (6h/semana)
+
+- Análise Exploratória de Dados (4h/semana)
+
+### 2020/02
+- Cálculo das Probabilidades II (6h/semana)
+
+- Aprendizagem de Máquina I (4h/semana)
+
+### 2020/01
+- Cálculo das Probabilidades II (6h/semana)
+
+- Laboratório de Estatística (4h/semana) -- Grupo de estudos sobre processamento de sinais musicais utilizando o livro *Fundamentals of Music Processing*, de Meinard Müller.
+
+- Tópicos Especiais em Processos Criativos I (3h/semana) -- ofertada pela Escola de Música da UFRJ para estudantes de Mestrado e Doutorado. O objetivo dessa disciplina foi fazer uma leitura do texto *Música Formalizada*, de Iannis Xenakis. Disciplina compartilhada com: Nei Rocha (IM/UFRJ), Stefanella Boatto (IM/UFRJ), Carlos Almada (EM/UFRJ), Liduino Pitombeira (EM/UFRJ), Pauxy Gentil-Nunes (EM/UFRJ), Petrucio Viana (IME/UFF) e Rodolfo Coelho (ECA/USP).
+
+### 2020/PLE
+- Cálculo das Probabilidades II (6h/semana)
+
+### 2019/02
+- Aprendizado de Máquina I (4h/semana)
+
+- Seminários de Doutorado (2h/semana)
+
+### 2019/01
+- Cálculo das Probabilidades II (6h/semana)
+
+- Probabilidade e Estatística (4h/semana)
+
+### 2018/02
+- Cálculo I (6h/semana)
+
+### 2018/01
+- Cálculo das Probabilidades I (6h/semana)
+
+- Cálculo III (4h/semana)
+
+### 2017/02
+- Probabilidade e Estatística (4h/semana)
+
+- Cálculo III (4h/semana)
+
+## Universidade do Estado do Rio de Janeiro (UERJ)
+
+### 2017/01
+
+### 2016/02
+
+### 2016/01
+
+### 2015/02
+
+## Universidade Federal do Rio de Janeiro (prof. substituto)
+
+### 2014/02
+
+### 2014/01
+
+### 2013/02
+
+### 2013/01
