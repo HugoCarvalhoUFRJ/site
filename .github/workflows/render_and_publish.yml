@@ -28,6 +28,10 @@ jobs:
           tinytex: true 
           # uncomment below and fill to pin a version
           # version: 0.9.600
+
+      - name: Install lcars template
+        run: |
+          quarto add template mccarthy-m-g/quarto-lcars-theme
       
       # add software dependencies here
 
