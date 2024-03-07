@@ -21,3 +21,6 @@ I was born in São Paulo, Brazil, and received the Applied Mathematics degree fr
 <a class="btn btn-outline-primary" href="https://arme-project.co.uk/" role="button">ARME Project</a>
 
 ## Contact me!
+For security reasons, I don't want to make public my email address in plain text. Therefore, the image below is blurred and corrupted with noise on purpose:
+
+"[](email.png)
