@@ -5,8 +5,8 @@ website:
   title: "Hugo Carvalho"
 
   page-navigation: true
-  site-url: "https://projetompb.github.io/site/"
-  repo-url: "https://github.com/ProjetoMPB/site"
+  site-url: "https://hugocarvalhoufrj.github.io/site/"
+  repo-url: "https://github.com/HugoCarvalhoUFRJ/site"
   repo-actions: [edit, source, issue]
 
   page-footer:
