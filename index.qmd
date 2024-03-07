@@ -19,3 +19,5 @@ I was born in São Paulo, Brazil, and received the Applied Mathematics degree fr
 <a class="btn btn-outline-primary" href="https://musmat.org/musmat-journal/" role="button">MusMat Journal</a>
 <a class="btn btn-outline-primary" href="https://projetompb.github.io/site/" role="button">Projeto MPB</a>
 <a class="btn btn-outline-primary" href="https://arme-project.co.uk/" role="button">ARME Project</a>
+
+## Contact me!
