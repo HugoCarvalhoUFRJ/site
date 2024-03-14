@@ -8,10 +8,6 @@ toc: true
 ## Materiais didáticos
 Aos poucos estou disponibilizando meus materiais didáticos em [minha página do GitHub](https://github.com/HugoCarvalhoUFRJ). No momento (dia 14 de março de 2024) a única disciplina com material didático completo é "Estatística e Probabilidade para Ciência da Computação". Aos poucos irei atualizando e colocando de outras matérias que oferto regularmente, pois o processo de organizar tudo que já tenho preparado é trabalhoso. Até metade de 2024 o material de Análise Exploratória de Dados também estará completo. Para solicitar uma versão editável dos materiais, entre em contato comigo.
 
-::: {.callout-note}
-Note que as disciplinas de quando dei aula na UERJ (entre 2015/02 e 2017/01) ainda não estão listadas.
-:::
-
 ## Universidade Federal do Rio de Janeiro (UFRJ)
 
 ### 2024/01
@@ -94,13 +90,28 @@ Note que as disciplinas de quando dei aula na UERJ (entre 2015/02 e 2017/01) ain
 
 ## Universidade do Estado do Rio de Janeiro (UERJ)
 
-### 2017/01
-
 ### 2016/02
+- Cálculo das Probabilidades I (6h/semana)
+
+- Cálculo das Probabilidades II (6h/semana)
+
+- Introdução ao R (4h/semana)
 
 ### 2016/01
+- Cálculo das Probabilidades II (6h/semana)
+
+- Cálculo das Probabilidades III (6h/semana)
+
+- Probabilidade e Estatística para Ciência da Computação (4h/semana)
 
 ### 2015/02
+- Cálculo das Probabilidades I (6h/semana)
+
+- Cálculo das Probabilidades II (6h/semana)
+
+- Sociometria (4h/semana)
+
+- Metodologia de Pesquisa Atuarial (4h/semana)
 
 ## Universidade Federal do Rio de Janeiro (prof. substituto)
 
