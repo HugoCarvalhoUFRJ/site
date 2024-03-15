@@ -1,1 +1,1 @@
-Sitemap: https://hugocarvalhoufrj.github.io/site/sitemap.xml
+Sitemap: https://hugocarvalho.mat.br/sitemap.xml

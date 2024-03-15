@@ -176,7 +176,7 @@ background: #2C2C2C;
 <section id="contact-me" class="level2">
 <h2 class="anchored" data-anchor-id="contact-me">Contact me!</h2>
 <p>For security reasons, I don’t want to make public my email address in plain text. Therefore, the image below is blurred and corrupted with noise on purpose:</p>
-<p><img src="email.png" class="img-fluid" width="300"></p>
+<p><img src="email.png" class="img-fluid" width="200"></p>
 </section>
 <section id="visitors" class="level2">
 <h2 class="anchored" data-anchor-id="visitors">Visitors</h2>
@@ -270,7 +270,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/hugocarvalhoufrj\.github\.io\/site\/");
+      var filterRegex = new RegExp("https:\/\/hugocarvalho\.mat\.br\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
