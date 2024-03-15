@@ -5,7 +5,7 @@ website:
   title: "Hugo Carvalho"
 
   page-navigation: true
-  site-url: "https://hugocarvalhoufrj.github.io/site/"
+  site-url: "https://hugocarvalho.mat.br/"
   repo-url: "https://github.com/HugoCarvalhoUFRJ/site"
   repo-actions: [edit, source, issue]
 
@@ -23,6 +23,10 @@ website:
         text: Ensino
       - href: compositions.qmd
         text: Music compositions
+      # - href: blog.qmd
+      #   text: Blog
+
+# bibliography: refs.bib
 
 format:
   lcars-html: default
