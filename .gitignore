@@ -2,8 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
 
-template.html
-template_files/
-
+.DS_Store
 /.quarto/
+/_site/
