@@ -21,6 +21,8 @@ website:
         text: Research
       - href: ensino.qmd
         text: Ensino
+      - href: orientacoes.qmd
+        text: Orientações
       - href: compositions.qmd
         text: Music compositions
       # - href: blog.qmd

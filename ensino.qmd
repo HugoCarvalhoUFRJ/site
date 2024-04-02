@@ -6,7 +6,7 @@ toc: true
 ---
 
 ## Materiais didáticos
-Aos poucos estou disponibilizando meus materiais didáticos em [minha página do GitHub](https://github.com/HugoCarvalhoUFRJ). No momento (dia 17 de março de 2024) as disciplinas com materiais didáticos completos são: "Estatística e Probabilidade para Ciência da Computação", "Análise Exploratória de Dados" e "Cálculo das Probabilidades II". Aos poucos irei atualizando e colocando de outras matérias que oferto regularmente, pois o processo de organizar tudo que já tenho preparado é trabalhoso. Até metade de 2024 o material de Análise Exploratória de Dados também estará completo. Para solicitar uma versão editável dos materiais, entre em contato comigo.
+Aos poucos estou disponibilizando meus materiais didáticos em [minha página do GitHub](https://github.com/HugoCarvalhoUFRJ). No momento (dia 17 de março de 2024) as disciplinas com materiais didáticos completos são: "Estatística e Probabilidade para Ciência da Computação", "Análise Exploratória de Dados" e "Cálculo das Probabilidades II". Aos poucos irei atualizando e colocando de outras matérias que oferto regularmente, pois o processo de organizar tudo que já tenho preparado é trabalhoso. Para solicitar uma versão editável dos materiais, entre em contato comigo pelo endereço de e-mail na [página principal](index.qmd).
 
 ## Universidade Federal do Rio de Janeiro (UFRJ)
 
