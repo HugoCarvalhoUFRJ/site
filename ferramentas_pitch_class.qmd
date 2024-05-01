@@ -1,10 +1,13 @@
 ---
 title: Ferramentas *Pitch class*
-format: dashboard
+format: lcars-html
 toc: false
 ---
 
 ```{python}
+
+#| echo: false
+
 import dash
 from dash import dcc
 from dash import html
@@ -20,7 +23,7 @@ app = dash.Dash(__name__)
 # ])
 
 app.layout = html.Div([
-    html.H1("Selecione o conjunto de interesse"),
+    html.H1("Selecione o conjunto de interesse", style={"color": "white"}),
     dcc.Checklist(
         id='valores-checkbox',
         options=[
@@ -37,6 +40,7 @@ app.layout = html.Div([
             {'label': '10', 'value': 10},
             {'label': '11', 'value': 11}
         ],
+        style={"color": "white"},
         value=[]  # Valor inicial vazio
     ),
     html.Button('Calcular', id='confirm-button', n_clicks=0),
@@ -156,13 +160,13 @@ def update_output(n_clicks, value):
             matriz_trans_conjunto, matriz_inv_conjunto = matrizes(conjunto)
 
             elementos_saida = [
-                html.P(f"Paleta: {paleta_conjunto}"),
-                html.P(f"Forma normal: {normal_conjunto}"),
-                html.P(f"Forma prima: {prima_conjunto}"),
-                html.P(f"Forma prima: {prima_conjunto}"),
-                html.P(f"Vetor intervalar: {vetor_conjunto}"),
-                html.P(f"Matriz de diferenças: {matriz_trans_conjunto}"),
-                html.P(f"Matriz de adições: {matriz_inv_conjunto}")
+                html.P(f"Paleta: {paleta_conjunto}", style={"color": "white"}),
+                html.P(f"Forma normal: {normal_conjunto}", style={"color": "white"}),
+                html.P(f"Forma prima: {prima_conjunto}", style={"color": "white"}),
+                html.P(f"Forma prima: {prima_conjunto}", style={"color": "white"}),
+                html.P(f"Vetor intervalar: {vetor_conjunto}", style={"color": "white"}),
+                html.P(f"Matriz de diferenças: {matriz_trans_conjunto}", style={"color": "white"}),
+                html.P(f"Matriz de adições: {matriz_inv_conjunto}", style={"color": "white"})
                 ]
 
             return elementos_saida
