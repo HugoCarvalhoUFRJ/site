@@ -1,0 +1,4 @@
+dash
+music21
+numpy
+itertools
