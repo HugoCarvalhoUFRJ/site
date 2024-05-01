@@ -1,3 +1,4 @@
 dash
 music21
 numpy
+jupyter
