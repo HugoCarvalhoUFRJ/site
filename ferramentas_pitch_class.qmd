@@ -13,16 +13,40 @@ from dash.dependencies import Input, Output, State
 #### CRIA DASHBOARD ####
 app = dash.Dash(__name__)
 
+# app.layout = html.Div([
+    # dcc.Input(id='input-text', type='text', placeholder='Conjunto'),
+    # html.Button('Calcular', id='confirm-button', n_clicks=0),
+    # html.Div(id='output-text')
+# ])
+
 app.layout = html.Div([
-    dcc.Input(id='input-text', type='text', placeholder='Conjunto'),
+    html.H1("Selecione o conjunto de interesse"),
+    dcc.Checklist(
+        id='valores-checkbox',
+        options=[
+            {'label': '0', 'value': 0},
+            {'label': '1', 'value': 1},
+            {'label': '2', 'value': 2},
+            {'label': '3', 'value': 3},
+            {'label': '4', 'value': 4},
+            {'label': '5', 'value': 5},
+            {'label': '6', 'value': 6},
+            {'label': '7', 'value': 7},
+            {'label': '8', 'value': 8},
+            {'label': '9', 'value': 9},
+            {'label': '10', 'value': 10},
+            {'label': '11', 'value': 11}
+        ],
+        value=[]  # Valor inicial vazio
+    ),
     html.Button('Calcular', id='confirm-button', n_clicks=0),
-    html.Div(id='output-text')
+    html.Div(id='resultado')  # Elemento de saída para exibir os valores selecionados
 ])
 
 @app.callback(
-    Output('output-text', 'children'),
+    Output('resultado', 'children'),
     [Input('confirm-button', 'n_clicks')],
-    [State('input-text', 'value')],
+    [State('valores-checkbox', 'value')],
     prevent_initial_call = True
 )
 
@@ -118,7 +142,8 @@ def update_output(n_clicks, value):
 
     if n_clicks > 0:
         try:
-            conjunto = [int(x) for x in value.split()]
+            # conjunto = [int(x) for x in value.split()]
+            conjunto = value
 
             paleta_conjunto = paleta(conjunto)
 
