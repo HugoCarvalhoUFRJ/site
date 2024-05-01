@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hugo Carvalho - Music compositions</title>
+<title>Hugo Carvalho - Ferramentas Pitch class</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,7 +23,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -35,10 +35,18 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-dashboard/quarto-dashboard.js"></script>
+<script src="site_libs/quarto-dashboard/stickythead.js"></script>
+<script src="site_libs/quarto-dashboard/datatables.min.js" kdttablesentinel="true"></script>
+<script src="site_libs/quarto-dashboard/pdfmake.min.js" kdttablesentinel="true"></script>
+<script src="site_libs/quarto-dashboard/vfs_fonts.js" kdttablesentinel="true"></script>
+<script src="site_libs/quarto-dashboard/web-components.js" type="module"></script>
+<script src="site_libs/quarto-dashboard/components.js"></script>
+<link href="site_libs/quarto-dashboard/datatables.min.css" rel="stylesheet" kdttablesentinel="true">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,32 +74,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
 
-      .quarto-title-block .quarto-title-banner h1,
-      .quarto-title-block .quarto-title-banner h2,
-      .quarto-title-block .quarto-title-banner h3,
-      .quarto-title-block .quarto-title-banner h4,
-      .quarto-title-block .quarto-title-banner h5,
-      .quarto-title-block .quarto-title-banner h6
-      {
-        color: #CC99CC;
-      }
-
-      .quarto-title-block .quarto-title-banner {
-        color: #CC99CC;
-background: #2C2C2C;
-      }
-</style>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
-<link rel="stylesheet" href="site_libs/quarto-contrib/quarto-project/lcars/lcars.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="quarto-dashboard nav-fixed dashboard-fill fullcontent">
+
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -122,7 +116,7 @@ background: #2C2C2C;
 <span class="menu-text">Orientações</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./compositions.html" aria-current="page"> 
+    <a class="nav-link" href="./compositions.html"> 
 <span class="menu-text">Music compositions</span></a>
   </li>  
 </ul>
@@ -131,50 +125,54 @@ background: #2C2C2C;
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-</header>
-<!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Music compositions</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
+<header id="quarto-dashboard-header">
+<nav class="navbar navbar-expand-md slim" data-bs-theme="dark">
+  <div class="navbar-container container-fluid">
+    <button class="navbar-toggler hidden" type="button" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-controls="dashboard-collapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>    
 
-      
-    
-      
+
+    <div class="navbar-brand-container">       
+
+      <div class="navbar-title">
+        <div class="navbar-title-text"><a href="#">Ferramentas <em>Pitch class</em></a></div>
+        
+        
+      </div>
     </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+</div>
+</nav>
+</header></header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar quarto-dashboard-content bslib-gap-spacing html-fill-container bslib-page-fill">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+<div class="bslib-grid-item html-fill-item bslib-grid" data-layout="fill" style="display: grid; grid-template-rows: minmax(3em, 1fr); grid-auto-columns: minmax(0, 1fr);">
+<div class="card cell bslib-card html-fill-container" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<div class="cell-output cell-output-display html-fill-item html-fill-container">
+
+        <iframe width="100%" height="650" src="http://127.0.0.1:8050/" frameborder="0" allowfullscreen=""></iframe>
+        
+</div>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
 
 
+<div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden">
+
+</div>
+</div>
 
 
-
-<section id="arnediad-dim-for-solo-piano" class="level2">
-<h2 class="anchored" data-anchor-id="arnediad-dim-for-solo-piano"><em>Arnediad Dim</em>, for solo piano</h2>
-<p>This is my first composition, a piece for solo piano that is a “musical metaphor” to the <a href="https://en.wikipedia.org/wiki/Cantor_function">Cantor function</a>, also known as a <em>devil’s staircase</em>, for its “infinite” number of steps. Apart from using several ideas from the iterative process of the construction of the Cantor set, the main goal of the piece is to evoke the feeling of anguish when climbing an infinite staircase.</p>
-<p>Regarding the name of the piece, <em>Arnediad Dim</em> means “endless staircase” in Sindarin, a fictional language created by J. R. R. Tolkien, and in his works, it is the most spoken language by the elves of the Third Age in Middle-earth, the time and place in which the events of The Hobbit and The Lord of the Rings take place. The analogy is due to two crucial moments in The Lord of the Rings where the characters went through long and dangerous staircases: the battle of the wizard Gandalf with a Balrog, whose final part took place on the long circular staircase that goes from the depths of the Mines of Moria to the top of the mountain of Zirakzigil; and the arrival of Frodo, Sam, and Sméagol at the pass of Cirith Ungol, which occurs through a long and dark staircase that starts from the vicinity of the dangerous city of Minas Morgul.</p>
-<p><em>Arnediad Dim</em> was premiered at the VII International MusMat Conference, by pianist <a href="https://musica.ufrj.br/gestao/docentes/professor/57">Tamara Ujakova</a>:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
-</iframe>
-<p>The piece was also performed live, also by Tamara, on the XXX Panorama da Música Brasileira Atual, one of the most important events of contemporary concert music in Brazil:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
-</iframe>
-
-
-</section>
-
-</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -594,13 +592,21 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/HugoCarvalhoUFRJ/site/edit/main/compositions.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/HugoCarvalhoUFRJ/site/blob/main/compositions.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/HugoCarvalhoUFRJ/site/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/HugoCarvalhoUFRJ/site/edit/main/ferramentas_pitch_class.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/HugoCarvalhoUFRJ/site/blob/main/ferramentas_pitch_class.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/HugoCarvalhoUFRJ/site/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>Page built in <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
   </div>
 </footer>
 
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (_event) {
+  if (window.bslib.Card) {
+    window.bslib.Card.initializeAllCards();
+  }
+}); 
+</script>
+  
 
 
 
