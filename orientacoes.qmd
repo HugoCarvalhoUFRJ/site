@@ -6,7 +6,7 @@ toc: true
 ---
 
 ::: {.callout-warning}
-Página ainda em construção. Última atualização: 01/04/2024.
+Página ainda em construção. Última atualização: 17/09/2024.
 ::: 
 
 ## Orientações em andamento
@@ -20,6 +20,8 @@ Página ainda em construção. Última atualização: 01/04/2024.
 
 ### Trabalho de Conclusão de Curso
 * André Duarte de Matos Pataro e Marco Antonio Mourão de Almeida. Tema da pesquisa: *Estratégias para preenchimentos de dados faltantes em uma base de dados sobre suicícios no Brasil*. Bacharelado em Ciências Atuariais -- UFRJ.
+
+* Iran Cruz Soares. Tema da pesquisa: *Inferência variacional semi-implícita*. Bacharelado em Estatística -- UFRJ.
 
 ### Iniciação Científica
 * Rumenick Brandi Sigolo. Tema da pesquisa: *Comparação de Diferentes Interpretações de uma Obra Musical: Obtenção de Curvas de Variação de Andamento Utilizando Dynamic Time Warping*. Bacharelado em Matemática Aplicada -- UFRJ.
@@ -52,3 +54,4 @@ Página ainda em construção. Última atualização: 01/04/2024.
 * Nathalie Fernanda Toffani Magliano di Domenico Fraçatho Deziderio (2021) *O Uso de Inferência Variacional para Reconhecimento de Emoções em Música*. Bacharelado em Estatística -- UFRJ.
 
 ### Iniciação Científica
+EM CONSTRUÇÃO
