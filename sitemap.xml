@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hugocarvalho.mat.br/ferramentas_pitch_class.html</loc>
-    <lastmod>2024-05-01T02:02:16.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hugocarvalho.mat.br/research.html</loc>
-    <lastmod>2024-05-01T02:02:16.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hugocarvalho.mat.br/compositions.html</loc>
-    <lastmod>2024-05-01T02:02:16.915Z</lastmod>
-  </url>
-  <url>
     <loc>https://hugocarvalho.mat.br/orientacoes.html</loc>
-    <lastmod>2024-05-01T02:02:16.915Z</lastmod>
+    <lastmod>2024-09-17T15:59:04.808Z</lastmod>
   </url>
   <url>
-    <loc>https://hugocarvalho.mat.br/ensino.html</loc>
-    <lastmod>2024-05-01T02:02:16.915Z</lastmod>
+    <loc>https://hugocarvalho.mat.br/ferramentas_pitch_class.html</loc>
+    <lastmod>2024-09-17T15:59:04.808Z</lastmod>
   </url>
   <url>
     <loc>https://hugocarvalho.mat.br/index.html</loc>
-    <lastmod>2024-05-01T02:02:16.915Z</lastmod>
+    <lastmod>2024-09-17T15:59:04.808Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hugocarvalho.mat.br/ensino.html</loc>
+    <lastmod>2024-09-17T15:59:04.808Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hugocarvalho.mat.br/research.html</loc>
+    <lastmod>2024-09-17T15:59:04.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hugocarvalho.mat.br/compositions.html</loc>
+    <lastmod>2024-09-17T15:59:04.808Z</lastmod>
   </url>
 </urlset>
