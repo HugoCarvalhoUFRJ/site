@@ -24,10 +24,3 @@ I was born in São Paulo, Brazil, and received the Applied Mathematics degree fr
 For security reasons, I don't want to make public my email address in plain text. Therefore, the image below is blurred and corrupted with noise on purpose:
 
 ![](email.png){width=200}
-
-## Visitors
-Widget by [RevolverMaps](https://www.revolvermaps.com/)
-
-<div style="display:inline-block;width:300px;">
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bqacd1m86k&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=10&amp;sx=0" async="async"></script>
-</div>
