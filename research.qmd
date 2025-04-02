@@ -5,7 +5,7 @@ toc: true
 ---
 
 ## Books
-* Almada, C.; Mathias, C.; Saraiva, C.; Moreira, D.; **Carvalho, H.**; Pitombeira, L. (editors); "Schoenberg: Music and Theory". MusMat Series. 2024. [[PDF](https://musmat.org/en/musmat-series/volume-i/)]
+* Almada, C.; Mathias, C.; Saraiva, C.; Moreira, D.; **Carvalho, H.**; Pitombeira, L. (editors); "Schoenberg: Music and Theory". MusMat Series. 2024. [[PDF](https://musmat.org/series/vol-1.html)]
 
 ## Journal papers
 * Almada, C.; **Carvalho, H.**; "Entropy, Probabilistic Harmonic Space, and the Harmony of Antonio Carlos Jobim". Musica Theorica, v. 7, n. 1. 2023. [[PDF](https://revistamusicatheorica.tema.mus.br/index.php/musica-theorica/article/view/202)]
