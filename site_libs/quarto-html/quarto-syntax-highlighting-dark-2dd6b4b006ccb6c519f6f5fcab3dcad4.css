@@ -36,11 +36,8 @@
   --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+/* syntax highlight based on Pandoc's rules */
 pre > code.sourceCode > span {
-  color: #FF9933;
-}
-
-code span {
   color: #FF9933;
 }
 
@@ -53,151 +50,185 @@ div.sourceCode pre.sourceCode {
   color: #FF9933;
 }
 
-code span.ot {
-  color: #A6A6A6;
-  font-style: inherit;
+/* Normal */
+code span {
+  color: #FF9933;
 }
 
-code span.at {
-  color: #FFCC99;
-  font-style: inherit;
-}
-
-code span.ss {
-  color: #20794D;
-  font-style: inherit;
-}
-
-code span.an {
-  color: #F4F4F4;
-  font-style: inherit;
-}
-
-code span.fu {
-  color: #99CCFF;
-  font-style: inherit;
-}
-
-code span.st {
-  color: #FFCC66;
-  font-style: inherit;
-}
-
-code span.cf {
-  color: #6699CC;
-  font-style: inherit;
-}
-
-code span.op {
-  color: #CC99CC;
-  font-style: inherit;
-}
-
-code span.er {
-  color: #CC6699;
-  font-style: inherit;
-}
-
-code span.bn {
-  color: #CC6699;
-  font-style: inherit;
-}
-
+/* Alert */
 code span.al {
   color: #CC6699;
   font-style: inherit;
 }
 
-code span.va {
-  color: #ffffff;
+/* Annotation */
+code span.an {
+  color: #F4F4F4;
   font-style: inherit;
 }
 
-code span.bu {
+/* Attribute */
+code span.at {
+  color: #FFCC99;
   font-style: inherit;
 }
 
-code span.ex {
-  font-style: inherit;
-}
-
-code span.pp {
+/* BaseN */
+code span.bn {
   color: #CC6699;
   font-style: inherit;
 }
 
-code span.in {
-  color: #F4F4F4;
+/* BuiltIn */
+code span.bu {
   font-style: inherit;
 }
 
-code span.vs {
-  color: #20794D;
+/* ControlFlow */
+code span.cf {
+  color: #6699CC;
   font-style: inherit;
 }
 
-code span.wa {
-  color: #F4F4F4;
-  font-style: italic;
-}
-
-code span.do {
-  color: #909090;
-  font-style: italic;
-}
-
-code span.im {
-  color: #00769E;
-  font-style: inherit;
-}
-
+/* Char */
 code span.ch {
   color: #20794D;
   font-style: inherit;
 }
 
-code span.dt {
-  color: #CC6699;
-  font-style: inherit;
-}
-
-code span.fl {
-  color: #CC6699;
-  font-style: inherit;
-}
-
-code span.co {
-  color: #A6A6A6;
-  font-style: inherit;
-}
-
-code span.cv {
-  color: #A6A6A6;
-  font-style: italic;
-}
-
+/* Constant */
 code span.cn {
   color: #CC99CC;
   font-style: inherit;
 }
 
-code span.sc {
+/* Comment */
+code span.co {
   color: #A6A6A6;
   font-style: inherit;
 }
 
+/* CommentVar */
+code span.cv {
+  color: #A6A6A6;
+  font-style: italic;
+}
+
+/* Documentation */
+code span.do {
+  color: #909090;
+  font-style: italic;
+}
+
+/* DataType */
+code span.dt {
+  color: #CC6699;
+  font-style: inherit;
+}
+
+/* DecVal */
 code span.dv {
   color: #CC6699;
   font-style: inherit;
 }
 
+/* Error */
+code span.er {
+  color: #CC6699;
+  font-style: inherit;
+}
+
+/* Extension */
+code span.ex {
+  font-style: inherit;
+}
+
+/* Float */
+code span.fl {
+  color: #CC6699;
+  font-style: inherit;
+}
+
+/* Function */
+code span.fu {
+  color: #99CCFF;
+  font-style: inherit;
+}
+
+/* Import */
+code span.im {
+  color: #00769E;
+  font-style: inherit;
+}
+
+/* Information */
+code span.in {
+  color: #F4F4F4;
+  font-style: inherit;
+}
+
+/* Keyword */
 code span.kw {
   color: #99CCFF;
   font-style: inherit;
+}
+
+/* Operator */
+code span.op {
+  color: #CC99CC;
+  font-style: inherit;
+}
+
+/* Other */
+code span.ot {
+  color: #A6A6A6;
+  font-style: inherit;
+}
+
+/* Preprocessor */
+code span.pp {
+  color: #CC6699;
+  font-style: inherit;
+}
+
+/* SpecialChar */
+code span.sc {
+  color: #A6A6A6;
+  font-style: inherit;
+}
+
+/* SpecialString */
+code span.ss {
+  color: #20794D;
+  font-style: inherit;
+}
+
+/* String */
+code span.st {
+  color: #FFCC66;
+  font-style: inherit;
+}
+
+/* Variable */
+code span.va {
+  color: #ffffff;
+  font-style: inherit;
+}
+
+/* VerbatimString */
+code span.vs {
+  color: #20794D;
+  font-style: inherit;
+}
+
+/* Warning */
+code span.wa {
+  color: #F4F4F4;
+  font-style: italic;
 }
 
 .prevent-inlining {
   content: "</";
 }
 
-/*# sourceMappingURL=2915ecc94300f6616bfb95154c2434d0.css.map */
+/*# sourceMappingURL=8dfcf807cfec74181c18813a0da8093d.css.map */
