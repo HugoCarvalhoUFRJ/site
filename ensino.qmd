@@ -6,12 +6,22 @@ toc: true
 ---
 
 ## Materiais didáticos
-Aos poucos estou disponibilizando meus materiais didáticos em [minha página do GitHub](https://github.com/HugoCarvalhoUFRJ). No momento (dia 19 de setembro de 2024) as disciplinas com materiais didáticos completos são: "Aprendizagem de Máquina I", "Estatística e Probabilidade para Ciência da Computação", "Análise Exploratória de Dados" e "Cálculo das Probabilidades II". Aos poucos irei atualizando e colocando de outras matérias que oferto regularmente, pois o processo de organizar tudo que já tenho preparado é trabalhoso. Para solicitar uma versão editável dos materiais, entre em contato comigo pelo endereço de e-mail na [página principal](index.qmd).
+Aos poucos estou disponibilizando meus materiais didáticos em [minha página do GitHub](https://github.com/HugoCarvalhoUFRJ). No momento (dia 13 de julho de 2024) as disciplinas com materiais didáticos completos são: "Aprendizagem de Máquina I", "Estatística e Probabilidade para Ciência da Computação", "Análise Exploratória de Dados" e "Cálculo das Probabilidades II". Aos poucos irei atualizando e colocando de outras matérias que oferto regularmente, pois o processo de organizar tudo que já tenho preparado é trabalhoso. Para solicitar uma versão editável dos materiais, entre em contato comigo pelo endereço de e-mail na [página principal](index.qmd).
 
 ## Universidade Federal do Rio de Janeiro (UFRJ)
 
+### 2025/02
+- Probabilidade e Estatística para Engenharias (4h/semana)
+
+- Aprendizagem de Máquina I (4h/semana)
+
+### 2025/01
+- Probabilidade e Estatística para Engenharias (4h/semana)
+
+- Análise Exploratória de Dados (4h/semana)
+
 ### 2024/02
-- Estatística e Probabilidade para Engenharias (4h/semana)
+- Probabilidade e Estatística para Engenharias (4h/semana)
 
 - Aprendizagem de Máquina I (4h/semana)
 
@@ -78,7 +88,7 @@ Aos poucos estou disponibilizando meus materiais didáticos em [minha página do
 ### 2019/01
 - Cálculo das Probabilidades II (6h/semana)
 
-- Probabilidade e Estatística (4h/semana)
+- Probabilidade e Estatística para Engenharias (4h/semana)
 
 ### 2018/02
 - Cálculo I (6h/semana)
@@ -89,7 +99,7 @@ Aos poucos estou disponibilizando meus materiais didáticos em [minha página do
 - Cálculo III (4h/semana)
 
 ### 2017/02
-- Probabilidade e Estatística (4h/semana)
+- Probabilidade e Estatística para Engenharias (4h/semana)
 
 - Cálculo III (4h/semana)
 

@@ -6,28 +6,28 @@ toc: true
 ---
 
 ::: {.callout-warning}
-Página ainda em construção. Última atualização: 17/09/2024.
+Página ainda em construção. Última atualização: 13/07/2025.
 ::: 
 
 ## Orientações em andamento
 ### Doutorado
-* Pedro Faria Proença Gomes. Tema da pesquisa: *Elaboração de Sistemas Composicionais Utilizando Métodos de Inferência Fuzzy*. Mestrado em Música -- UFRJ. Co-orientação em conjunto com Liduino Pitombeira.
+* Pedro Faria Proença Gomes. *Elaboração de Sistemas Composicionais Utilizando Métodos de Inferência Fuzzy*. Mestrado em Música -- UFRJ. Co-orientação em conjunto com Liduino Pitombeira.
 
 ### Mestrado
-* Karolayne Pereira Dessabato. Tema da pesquisa: *Reconhecimento de Emoções em Música*. Mestrado em Estatística -- UFRJ.
-
-* Matheus Raposo Lopes Saléh Amado. Tema da pesquisa: *Inferência Variacional*. Mestrado em Estatística -- UFRJ. Co-orientador: Carlos Zanini.
+* Matheus Raposo Lopes Saléh Amado. *Inferência Variacional*. Mestrado em Estatística -- UFRJ. Co-orientador: Carlos Zanini.
 
 ### Trabalho de Conclusão de Curso
-* André Duarte de Matos Pataro e Marco Antonio Mourão de Almeida. Tema da pesquisa: *Estratégias para preenchimentos de dados faltantes em uma base de dados sobre suicícios no Brasil*. Bacharelado em Ciências Atuariais -- UFRJ.
-
 * Iran Cruz Soares. Tema da pesquisa: *Inferência variacional semi-implícita*. Bacharelado em Estatística -- UFRJ.
 
+* Stefane Moraes Castoldi. *Identificação de Estruturas Melódicas na MPB por Modelos de Tópicos*. Bacharelado em Estatística -- UFRJ.
+
 ### Iniciação Científica
-* Rumenick Brandi Sigolo. Tema da pesquisa: *Comparação de Diferentes Interpretações de uma Obra Musical: Obtenção de Curvas de Variação de Andamento Utilizando Dynamic Time Warping*. Bacharelado em Matemática Aplicada -- UFRJ.
+* Rumenick Brandi Sigolo e Frederico Strasser. *Identificação de Estruturas Rítmicas na MPB por Modelos de Tópicos*. Bacharelado em Matemática Aplicada -- UFRJ.
 
 ## Orientações finalizadas
 ### Mestrado
+* Karolayne Pereira Dessabato (2025) *Machine Learning Methods in Music Emotion Recognition*. Mestrado em Estatística -- UFRJ.
+
 * Natanael Luciano de Matos (2024) *Aplicação de Redes Neurais Radiais em Identificação de Gêneros Musicais*. Mestrado em Estatística -- UFRJ. Co-orientador: Carlos Zanini.
 
 * Natan Freitas Leite (2022) *Modelagem Estatística Multivariada da Relação entre Treinamento e Performance no Ciclismo*. Mestrado em Estatística -- UFRJ. Co-orientação em conjunto com Carlos Zanini.
@@ -41,6 +41,8 @@ Página ainda em construção. Última atualização: 17/09/2024.
 * Felipe Pagginelli Patrício (2020) *The Johnson-Lindenstrauss Lemma*. Mestrado em Matemática -- UFRJ. Co-orientação em conjunto com Wladimir Neves.
 
 ### Trabalho de Conclusão de Curso
+* André Duarte de Matos Pataro e Marco Antonio Mourão de Almeida (2024) *Estudo Sobre a Incidência do Suicídio no Brasil*. Bacharelados em Ciências Atuariais e Estatística -- UFRJ.
+
 * Rodrigo Côrtes Nogueira da Rocha Pita (2024) *Identificação de Acordes via Modeos de Markov Ocultos Musicalmente Informados*. Bacharelado em Ciência da Computação -- UFRJ. Co-orientação em conjunto com João Paixão.
 
 * Arthur Araújo Freira e Renan Rios de Souza (2023) *A Contribuição da Modelagem das Curvas de perda para o Entendimento do Seguro Rural no Brasil*. Bacharelado em Ciências Atuariais -- UFRJ.
